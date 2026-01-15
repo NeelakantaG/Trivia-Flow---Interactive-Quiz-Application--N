@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # Trivia-Flow---Interactive-Quiz-Application
-=======
-# React Quiz Application
->>>>>>> 000c7ea (adding Quiz project)
 
 A modern, interactive quiz application built with React that fetches questions from the Open Trivia Database API. The application features a clean, responsive design with real-time feedback and scoring.
 
@@ -176,20 +172,5 @@ This project demonstrates proficiency in:
 - **CSS Styling**: Modern CSS with flexbox and responsive design
 - **Project Structure**: Organized, maintainable codebase
 
-<<<<<<< HEAD
 **Built with ❤️ using React and modern web technologies**
-=======
-## 🚀 Future Enhancements
 
-Potential improvements for the application:
-- Add difficulty level selection
-- Implement category-based questions
-- Add timer functionality
-- Include progress bar
-- Add sound effects
-- Implement local storage for high scores
-- Add animations and transitions
-- Support for different question types
-
-**Built with ❤️ using React and modern web technologies**
->>>>>>> 000c7ea (adding Quiz project)
