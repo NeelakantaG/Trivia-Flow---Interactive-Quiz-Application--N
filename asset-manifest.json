@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Trivia-Flow---Interactive-Quiz-Application--N/static/css/main.850aa9a4.css",
+    "main.js": "/Trivia-Flow---Interactive-Quiz-Application--N/static/js/main.b1477e37.js",
+    "index.html": "/Trivia-Flow---Interactive-Quiz-Application--N/index.html",
+    "main.850aa9a4.css.map": "/Trivia-Flow---Interactive-Quiz-Application--N/static/css/main.850aa9a4.css.map",
+    "main.b1477e37.js.map": "/Trivia-Flow---Interactive-Quiz-Application--N/static/js/main.b1477e37.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.850aa9a4.css",
+    "static/js/main.b1477e37.js"
+  ]
+}
